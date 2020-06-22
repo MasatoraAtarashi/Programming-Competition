@@ -1,0 +1,2 @@
+ruby programming/atCoder/ABC/166/a.rb <<EOS
+EOS

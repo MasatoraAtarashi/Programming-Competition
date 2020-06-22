@@ -1,0 +1,9 @@
+ruby programming/atCoder/ABC/160/c.rb <<EOS
+20 3
+5 10 15
+EOS
+
+ruby programming/atCoder/ABC/160/c.rb <<EOS
+20 3
+0 5 15
+EOS

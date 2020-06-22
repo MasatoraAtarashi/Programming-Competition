@@ -1,0 +1,44 @@
+ruby programming/atCoder/ABS/a.rb <<EOS
+6
+382253568 723152896 37802240 379425024 404894720 471526144
+EOS
+
+ruby programming/atCoder/ABS/a.rb <<EOS
+5
+1
+0
+150
+EOS
+
+ruby programming/atCoder/ABS/a.rb <<EOS
+30
+40
+50
+6000
+EOS
+
+ruby programming/atCoder/ABS/a.rb <<EOS
+100 4 16
+EOS
+
+ruby programming/atCoder/ABS/a.rb <<EOS
+3
+2 7 4
+EOS
+
+ruby programming/atCoder/ABS/a.rb <<EOS
+7
+50
+30
+50
+100
+50
+80
+30
+EOS
+
+ruby programming/atCoder/ABS/a.rb <<EOS
+2
+5 1 1
+100 1 1
+EOS

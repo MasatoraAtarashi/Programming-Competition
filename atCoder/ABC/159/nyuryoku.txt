@@ -1,0 +1,23 @@
+ruby atCoder/ABC159/b.rb <<EOS
+akasaka
+EOS
+
+ruby programming/atCoder/ABC/159/review/d.rb <<EOS
+5
+3 3 3 3 3
+EOS
+
+ruby programming/atCoder/ABC/159/review/d.rb <<EOS
+8
+1 2 1 4 2 1 4 1
+EOS
+
+ruby programming/atCoder/ABC/159/review/d.rb <<EOS
+5
+1 1 2 1 2
+EOS
+
+ruby programming/atCoder/ABC/159/review/d.rb <<EOS
+4
+1 2 3 4
+EOS
